@@ -7158,3 +7158,25 @@ svg{
     color:#ff2832;
 }
 
+.product-wish{
+    position: absolute;
+    top:10%;
+    left: 0;
+    z-index: 99;
+    right: 30px;
+    text-align: right;
+    padding-top: 0;
+}
+.product-wish .fa{
+   color: #cbcbcb;
+   font-size: 28px;
+}
+
+.product-wish .fa:hover{
+    color: crimson;
+ }
+
+ .fill-heart{
+    color: crimson !important;
+ }
+
